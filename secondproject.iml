@@ -109,5 +109,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.8.4" level="project" />
+    <orderEntry type="library" name="Maven: org.bgee.log4jdbc-log4j2:log4jdbc-log4j2-jdbc4.1:1.16" level="project" />
   </component>
 </module>
